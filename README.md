@@ -65,7 +65,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
-  # WATCH TUTORIAL
+  # TUTORIAL FOR PANEL
   <a href="https://youtu.be/TWknrXgt3go?si=aoYd-1Col9T8vtgT"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/TWknrXgt3go?si=aoYd-1Col9T8vtgT" /><br>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
