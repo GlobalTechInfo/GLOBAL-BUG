@@ -918,12 +918,6 @@ dispMenu = `HELLO ${pushname}
 ⿻ ᴡᴀ-ᴄʀᴀꜱʜ
 ⿻ ᴠɪᴘ-ʙᴜɢꜱ
 ⿻ ᴛᴇᴍᴘ-ʙᴀɴ
-⿻ ᴘᴜʙʟɪᴄ
-⿻ sᴇʟғ
-⿻ ᴍᴘ4
-⿻ ᴍᴘ3
-⿻ ᴘʟᴀʏ
-⿻ ᴀɪ
 ━━━━━━━━━━━━━━━━⬣`
 
 let msgii = generateWAMessageFromContent(m.chat, {
