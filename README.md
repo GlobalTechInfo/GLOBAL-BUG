@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://ibb.co/QML1g9z?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/pndwXMm/anjay-2.jpg?style=for-the-badge&logo=github"></a>
 <p>
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
