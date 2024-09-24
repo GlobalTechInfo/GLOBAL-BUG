@@ -41,6 +41,9 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
+
+`Click On Server 1 Button And Wait About 50 To 90 Seconds Website Will Take To Open As Per Renders Free Instance Policy`
+
  
 # GET SESSION CREDS.JSON
 
@@ -50,7 +53,7 @@
 <p align="center">
 
 <a href='https://replit.com/@tlptrends92/GLOBAL-SESSIONS#main.sh' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-2-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
+`Get Creds.json Then Upload It Inside Session Folder Of Forked Repo`
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
  
