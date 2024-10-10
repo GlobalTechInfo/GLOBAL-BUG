@@ -56,7 +56,7 @@
  
 # GET SESSION CREDS.JSON
 
-<a href='https://available-letta-oletters-45731642.koyeb.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://necessary-margaretha-oletters-ba309cdc.koyeb.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
