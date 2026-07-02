@@ -1,15 +1,15 @@
 /*
 
 
-       Subscribe My YouTube Channel: @GlobalTechInfo
+       Subscribe My WhatsApp Channel: https://whatsapp.com/channel/0029Vb7qmxVG8l5LP0E9w61H
 
-Follow The Channel For More :https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+Follow The Channel For More :https://whatsapp.com/channel/0029Vb7qmxVG8l5LP0E9w61H
 
 Contact Me: https://t.me/GlobalTechInc
 
 GitHub: https://github.com/GlobalTechInfo
 
-Credit Qasim Ali
+Credit ᵃʸᵉˢʰᵃ ᵇⁱᵇⁱ
 
 */
 require("./config")
@@ -140,7 +140,7 @@ var genalpa = [
 "𝘊𝘳𝘢𝘴𝘩",
 "𝘎𝘓𝘖𝘉𝘈𝘓 𝘟 𝘊𝘳𝘢𝘴𝘩"
 ]
-let { key } = await Painzy.sendMessage(m.chat, {text: '𝘘𝘢𝘴𝘪𝘮'})
+let { key } = await Painzy.sendMessage(m.chat, {text: 'ᵃʸᵉˢʰᵃ ᵇⁱᵇⁱ'})
 
 const pickRandom = (arr) => {
 return arr[Math.floor(Math.random() * arr.length)]
